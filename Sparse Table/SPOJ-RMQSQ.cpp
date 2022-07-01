@@ -2,7 +2,7 @@
 using namespace std;
 typedef long long int ll;
 
-ll table[10001][17];
+ll table[100001][17];
 
 void precal(vector<ll>&vec){
     ll n=vec.size();
